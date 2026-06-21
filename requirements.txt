@@ -1,12 +1,23 @@
+# Core
 streamlit
-numpy<2.0.0
+numpy
 pandas
+
+# Audio Processing
 librosa
 soundfile
 scipy
+
+# Machine Learning & Deep Learning
 scikit-learn
+tensorflow-cpu
 keras
 h5py
+
+# Visualization
 matplotlib
 seaborn
+
+# Utilities
 Pillow
+fpdf
